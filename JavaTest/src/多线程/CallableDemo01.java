@@ -23,7 +23,6 @@ public class CallableDemo01 {
     }
 }
 
-
 /**
  * 创建Callable的实现类
  *    我们需要指定Callable的泛型，这个泛型是返回结果的类型
