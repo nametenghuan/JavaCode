@@ -3,12 +3,12 @@ package 多线程;
 import java.util.concurrent.Callable;
 import java.util.concurrent.FutureTask;
 
+/**
+ * 创建线程的第三种实现方式：
+ * Callable方式
+ */
 public class CallableDemo01 {
 
-    /**
-     * 创建线程的第三种实现方式：
-     *    Callable方式
-     */
     public static void main(String[] args) throws  Exception {
         // 创建一个Callable实例
         Callable<Integer> callable = new MyCallable();
