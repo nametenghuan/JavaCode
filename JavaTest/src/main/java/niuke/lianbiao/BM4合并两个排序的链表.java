@@ -4,7 +4,7 @@ package main.java.niuke.lianbiao;
  * 要尊重编程
  * 作者: 庞欢腾
  * 创建日期: 2023/4/26
- * 描述: JavaCode
+ * 描述: JavaCode BM4合并两个排序的链表
  */
 public class BM4合并两个排序的链表 {
 
